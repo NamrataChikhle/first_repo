@@ -1,13 +1,17 @@
 function runJs(){
     var a; 
     console.log(a);
-    a=getA();
-    console.log(a);
+    
+    console.log(getA());
+
+
+    
+
 
 }
 
 function getA(){
-    return 10;
+    //return 10;
 }
 
 
